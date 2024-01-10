@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Soy un apasionado desarrollador backend con un enfoque orientado al aprendizaje continuo. Mi experiencia puede ser limitada, pero mi entusiasmo por explorar nuevas tecnologías y enfrentar desafíos es ilimitado. Me embarco en proyectos personales para aplicar y fortalecer mis habilidades, destacando mi capacidad para trabajar con Laaravel y NodeJS. Mi compromiso con la mejora constante se refleja en mi disposición para colaborar con otros desarrolladores, recibir retroalimentación y abordar proyectos desafiantes. Actualmente, estoy explorando y estoy abierto a nuevas oportunidades que me permitan seguir creciendo como profesional del desarrollo backend.
 <!--
 **WillianAbrego/WillianAbrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
